@@ -1,3 +1,4 @@
+##################################There are still some bugs##################################
 # wordle-breaker
 to help you to guess the word faster
 ## how to use
